@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "The Day of Poo \u2014 iPhone Edition",
+  "short_name": "Day of Poo",
+  "description": "A sketchbook-style dodging game inspired by the 2010 iPhone original.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7d5",
+  "theme_color": "#faf7d5",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
